@@ -1,0 +1,18 @@
+#main {
+    width: 840px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+} 
+
+#grafy {
+    height: 420px;
+    margin-top: 50px;
+}
+
+.sloupec {
+    display: inline-block;
+    vertical-align: bottom;
+    color: white;
+    font-weight: bold;
+}
